@@ -1,0 +1,18 @@
+{
+    "settings": {
+    "theme": "theme3",
+    "font": "rubik",
+    "timeLimit": 130,
+    "background": "assets/background.png"
+    // "pointsPerCorrectAnswer": 10
+}
+}
+
+
+
+
+// "settings": {
+//     "timeLimit": 120,
+//     "pointsPerCorrectAnswer": 10
+//   }
+// }
